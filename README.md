@@ -2,7 +2,6 @@ This is not a Screwloose or nullptr related project at all. this is a slightly u
 
 # Made in Unreal Engine 4.27
 
-THIS PROJECT REQUIRES 4.27
 © 2026 Jaythefrog & JacketDoesStuff. All Rights Reserved.
 
 CREDIT IS REQUIRED IF PROJECT IS USED
